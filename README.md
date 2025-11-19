@@ -74,7 +74,7 @@ Gamificación, base de datos local y tests unitarios con Pytest.
 <a href="mailto:mcastro211973@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosc2119&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=0)
 </div>
 
 ---
