@@ -35,7 +35,7 @@
 <div align="center">
 
 <!-- Stats principales -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosc2119&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosc2119&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=0"/>
 
 <!-- Lenguajes -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosc2119&layout=compact&theme=tokyonight&langs_count=8"/>
@@ -74,7 +74,6 @@ Gamificación, base de datos local y tests unitarios con Pytest.
 <a href="mailto:mcastro211973@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosc2119&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=0)
 </div>
 
 ---
