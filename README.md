@@ -41,7 +41,8 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosc2119&layout=compact&theme=tokyonight" />
 
 <!-- Racha -->
-<img src="https://streak-stats.demolab.com/?user=marcosc2119&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=marcosc2119&amp;theme=tokyonight&amp;hide_border=true" />
+
 
 </div>
 
