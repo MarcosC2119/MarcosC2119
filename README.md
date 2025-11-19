@@ -10,6 +10,8 @@ Actualmente, estoy enfocado en consolidar mi perfil como Desarrollador Full Stac
 
 Me muevo con soltura entre el Backend robusto y el Frontend moderno.
 
+<div align="center">
+
 Backend
 
 Frontend
@@ -26,24 +28,26 @@ Herramientas
 
 <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dgit,github,vscode,postman,docker" />
 
+</div>
+
 📊 Mis Estadísticas en GitHub
 
 Aquí puedes ver un resumen visual de mi actividad y los lenguajes que más utilizo en mis proyectos (como Reciclapp y el Sistema de Gestión UCT).
 
-<p align="center">
+<div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dmarcosc2119%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dmarcosc2119%26layout%3Dcompact%26theme%3Dtokyonight%26langs_count%3D8"/>
 </a>
-</p>
+</div>
 
-<!-- Opcional: Racha de contribuciones (Streak) -->
+<!-- Racha de contribuciones (Streak) -->
 
-<p align="center">
+<div align="center">
 <img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dmarcosc2119%26theme%3Dtokyonight" alt="Marcos's GitHub Streak" />
-</p>
+</div>
 
 🔭 Proyectos Destacados
 
@@ -59,7 +63,7 @@ Explorando servicios de AWS (EC2, S3) para despliegue en la nube.
 
 Mejorando mis habilidades en CI/CD y DevOps.
 
-<p align="center">
+<div align="center">
 <b>📫 ¡Conectemos!</b>
 
 
@@ -70,10 +74,13 @@ Si te interesa mi perfil o quieres colaborar en algún proyecto, no dudes en esc
 
 
 
+
+
 <a href="mailto:mcastro211973@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
+&nbsp;&nbsp;
 <a href="LINK_A_TU_LINKEDIN_AQUI">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
 </a>
-</p>
+</div>
