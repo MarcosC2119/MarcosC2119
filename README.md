@@ -34,7 +34,7 @@
 
 <!-- Stats principales -->
 <img height="180em"
-     src="https://github-readme-stats.vercel.app/api?username=marcosc2119&show_icons=true&theme=tokyonight&count_private=true" />
+     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marcosc2119&theme=tokyonight" />
 
 <!-- Lenguajes -->
 <img height="180em"
