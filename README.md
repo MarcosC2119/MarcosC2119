@@ -32,19 +32,20 @@
 
 ## 📊 Mis Estadísticas en GitHub
 
-<div align="center">
-
 <!-- Stats principales -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosc2119&show_icons=true&theme=tokyonight&count_private=true" />
+<img height="180em"
+     src="https://github-readme-stats.vercel.app/api?username=marcosc2119&show_icons=true&theme=tokyonight&count_private=true" />
 
 <!-- Lenguajes -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosc2119&layout=compact&theme=tokyonight" />
+<img height="180em"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosc2119&layout=compact&theme=tokyonight" />
 
-<!-- Tarjeta alternativa a streak (estable) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcosc2119&theme=tokyonight" />
+<!-- Tarjeta sin el ícono de ranking -->
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcosc2119&theme=tokyonight&hide_rank=true"
+/>
 
 </div>
-
 
 
 
