@@ -34,16 +34,17 @@
 
 <div align="center">
 
-<!-- Stats principales -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosc2119&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=0"/>
+<!-- Stats principales (servidor activo alternativo) -->
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=marcosc2119&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 <!-- Lenguajes -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosc2119&layout=compact&theme=tokyonight&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marcosc2119&layout=compact&theme=tokyonight&langs_count=8"/>
 
-<!-- Racha -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=marcosc2119&theme=tokyonight" />
+<!-- Racha de commits (servidor estable) -->
+<img src="https://streak-stats.demolab.com?user=marcosc2119&theme=tokyonight" />
 
 </div>
+
 
 ---
 
